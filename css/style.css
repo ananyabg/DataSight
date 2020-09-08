@@ -2,13 +2,13 @@ body {
   font-family: Arial, Helvetica, sans-serif !important;
 }
 
-.navbar-primary .navbar-brand {
+.navbar-light .navbar-brand {
   color: #ef383e;
   font-weight: bolder;
   font-size: x-large;
 }
 
-.navbar-primary .navbar-brand .fa {
+.navbar-light .navbar-brand .fa {
   color: #0585bb;
 }
 
